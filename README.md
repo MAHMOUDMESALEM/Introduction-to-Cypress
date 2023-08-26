@@ -17,7 +17,8 @@ Welcome to the "Introduction to Cypress" repository! This repository contains re
 To get started with Cypress, follow these steps:
 
 1. Clone the repository using the following command:
-https://github.com/MAHMOUDMESALEM/Introduction-to-Cypress
+   
+       git clone https://github.com/MAHMOUDMESALEM/Introduction-to-Cypress
 
 2. Install the dependencies by navigating to the project's root directory and running:
 
