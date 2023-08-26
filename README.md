@@ -49,6 +49,6 @@ Contributions to this repository are welcome! If you have any suggestions, bug f
 
 When contributing, please provide clear descriptions and context for your changes. This will help reviewers and other contributors understand your intentions and the impact of your modifications.
 
-**References**
+## References
 
 https://testautomationu.applitools.com/cypress-tutorial/index.html
